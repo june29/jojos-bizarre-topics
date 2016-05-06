@@ -1,0 +1,830 @@
+[
+  {
+    "stand_name": "ザ・フール（愚者）",
+    "operator_name": "イギー"
+  },
+  {
+    "stand_name": "マジシャンズレッド（魔術師の赤）",
+    "operator_name": "モハメド・アヴドゥル"
+  },
+  {
+    "stand_name": "ハイプリエステス（女教皇）",
+    "operator_name": "ミドラー"
+  },
+  {
+    "stand_name": "エンプレス（女帝）",
+    "operator_name": "ネーナ"
+  },
+  {
+    "stand_name": "エンペラー（皇帝）",
+    "operator_name": "ホル・ホース"
+  },
+  {
+    "stand_name": "ハイエロファントグリーン（法皇の緑）",
+    "operator_name": "花京院典明"
+  },
+  {
+    "stand_name": "ラバーズ（恋人）",
+    "operator_name": "鋼入りのダン"
+  },
+  {
+    "stand_name": "シルバーチャリオッツ（銀の戦車）",
+    "operator_name": "ジャン＝ピエール・ポルナレフ"
+  },
+  {
+    "stand_name": "ストレングス（力）",
+    "operator_name": "フォーエバー"
+  },
+  {
+    "stand_name": "ハーミットパープル（隠者の紫）",
+    "operator_name": "ジョセフ・ジョースター"
+  },
+  {
+    "stand_name": "ホウィール・オブ・フォーチュン（運命の車輪）",
+    "operator_name": "ズィー・ズィー"
+  },
+  {
+    "stand_name": "ジャスティス（正義）",
+    "operator_name": "エンヤ婆"
+  },
+  {
+    "stand_name": "ハングドマン（吊られた男）",
+    "operator_name": "J・ガイル"
+  },
+  {
+    "stand_name": "デス・サーティーン（死神13）",
+    "operator_name": "マニッシュ・ボーイ"
+  },
+  {
+    "stand_name": "イエローテンパランス（黄の節制）",
+    "operator_name": "ラバーソール"
+  },
+  {
+    "stand_name": "エボニーデビル（悪魔）",
+    "operator_name": "呪いのデーボ"
+  },
+  {
+    "stand_name": "タワーオブグレー（灰の塔）",
+    "operator_name": "グレーフライ"
+  },
+  {
+    "stand_name": "スタープラチナ（星の白金）",
+    "operator_name": "空条承太郎"
+  },
+  {
+    "stand_name": "ダークブルームーン（暗青の月）",
+    "operator_name": "偽キャプテン・テニール"
+  },
+  {
+    "stand_name": "サン（太陽）",
+    "operator_name": "アラビア・ファッツ"
+  },
+  {
+    "stand_name": "ジャッジメント（審判）",
+    "operator_name": "カメオ"
+  },
+  {
+    "stand_name": "ザ・ワールド（世界）",
+    "operator_name": "DIO"
+  },
+  {
+    "stand_name": "オシリス神",
+    "operator_name": "ダニエル・J・ダービー"
+  },
+  {
+    "stand_name": "ホルス神",
+    "operator_name": "ペット・ショップ"
+  },
+  {
+    "stand_name": "ゲブ神",
+    "operator_name": "ンドゥール"
+  },
+  {
+    "stand_name": "バステト女神",
+    "operator_name": "マライア"
+  },
+  {
+    "stand_name": "セト神",
+    "operator_name": "アレッシー"
+  },
+  {
+    "stand_name": "クヌム神",
+    "operator_name": "オインゴ"
+  },
+  {
+    "stand_name": "トト神",
+    "operator_name": "ボインゴ"
+  },
+  {
+    "stand_name": "アヌビス神",
+    "operator_name": "キャラバン・サライ"
+  },
+  {
+    "stand_name": "アトゥム神",
+    "operator_name": "テレンス・T・ダービー"
+  },
+  {
+    "stand_name": "クリーム",
+    "operator_name": "ヴァニラ・アイス"
+  },
+  {
+    "stand_name": "ティナー・サックス",
+    "operator_name": "ケニーG"
+  },
+  {
+    "stand_name": "無名",
+    "operator_name": "空条ホリィ"
+  },
+  {
+    "stand_name": "アース・ウインド・アンド・ファイヤー",
+    "operator_name": "支倉未起隆"
+  },
+  {
+    "stand_name": "アクア・ネックレス（水の首かざり）",
+    "operator_name": "片桐安十郎"
+  },
+  {
+    "stand_name": "アクトン・ベイビー",
+    "operator_name": "静・ジョースター"
+  },
+  {
+    "stand_name": "アトム・ハート・ファーザー",
+    "operator_name": "吉良吉廣"
+  },
+  {
+    "stand_name": "吉良吉廣（生前）",
+    "operator_name": "写真の中に自由に出入りできる。"
+  },
+  {
+    "stand_name": "エコーズACT1（- アクトワン）",
+    "operator_name": "広瀬康一"
+  },
+  {
+    "stand_name": "ACT2（- アクトツー）",
+    "operator_name": "広瀬康一"
+  },
+  {
+    "stand_name": "ACT3（- アクトスリー）",
+    "operator_name": "広瀬康一"
+  },
+  {
+    "stand_name": "エニグマ",
+    "operator_name": "宮本輝之輔"
+  },
+  {
+    "stand_name": "キラークイーン",
+    "operator_name": "吉良吉影"
+  },
+  {
+    "stand_name": "シアー・ハート・アタック",
+    "operator_name": "吉良吉影"
+  },
+  {
+    "stand_name": "バイツァ・ダスト（負けて死ね）",
+    "operator_name": "吉良吉影"
+  },
+  {
+    "stand_name": "クレイジー・ダイヤモンド",
+    "operator_name": "東方仗助"
+  },
+  {
+    "stand_name": "サーフィス（うわっ面）",
+    "operator_name": "間田敏和"
+  },
+  {
+    "stand_name": "ザ・ハンド（手）",
+    "operator_name": "虹村億泰"
+  },
+  {
+    "stand_name": "ザ・ロック（錠前）",
+    "operator_name": "小林玉美"
+  },
+  {
+    "stand_name": "シンデレラ",
+    "operator_name": "辻彩"
+  },
+  {
+    "stand_name": "スーパーフライ",
+    "operator_name": "鋼田一豊大"
+  },
+  {
+    "stand_name": "ストレイ・キャット",
+    "operator_name": "猫草（元タマ）"
+  },
+  {
+    "stand_name": "チープ・トリック",
+    "operator_name": "乙雅三"
+  },
+  {
+    "stand_name": "ハーヴェスト",
+    "operator_name": "矢安宮重清"
+  },
+  {
+    "stand_name": "パール・ジャム",
+    "operator_name": "トニオ・トラサルディー"
+  },
+  {
+    "stand_name": "ハイウェイ・スター",
+    "operator_name": "噴上裕也"
+  },
+  {
+    "stand_name": "バッド・カンパニー",
+    "operator_name": "虹村形兆"
+  },
+  {
+    "stand_name": "ヘブンズ・ドアー",
+    "operator_name": "岸辺露伴"
+  },
+  {
+    "stand_name": "ボーイ・II・マン",
+    "operator_name": "大柳賢"
+  },
+  {
+    "stand_name": "ラット",
+    "operator_name": "虫喰い"
+  },
+  {
+    "stand_name": "ラブ・デラックス",
+    "operator_name": "山岸由花子"
+  },
+  {
+    "stand_name": "レッド・ホット・チリ・ペッパー",
+    "operator_name": "音石明"
+  },
+  {
+    "stand_name": "エアロスミス",
+    "operator_name": "ナランチャ・ギルガ"
+  },
+  {
+    "stand_name": "オアシス",
+    "operator_name": "セッコ"
+  },
+  {
+    "stand_name": "キング・クリムゾン",
+    "operator_name": "ディアボロ"
+  },
+  {
+    "stand_name": "エピタフ",
+    "operator_name": "ディアボロ"
+  },
+  {
+    "stand_name": "クラッシュ",
+    "operator_name": "スクアーロ"
+  },
+  {
+    "stand_name": "クラフト・ワーク",
+    "operator_name": "サーレー"
+  },
+  {
+    "stand_name": "グリーン・ディ",
+    "operator_name": "チョコラータ"
+  },
+  {
+    "stand_name": "ゴールド・エクスペリエンス",
+    "operator_name": "ジョルノ・ジョバァーナ"
+  },
+  {
+    "stand_name": "ザ・グレイトフル・デッド",
+    "operator_name": "プロシュート"
+  },
+  {
+    "stand_name": "スティッキィ・フィンガーズ",
+    "operator_name": "ブローノ・ブチャラティ"
+  },
+  {
+    "stand_name": "スパイス・ガール",
+    "operator_name": "トリッシュ・ウナ"
+  },
+  {
+    "stand_name": "セックス・ピストルズ",
+    "operator_name": "グイード・ミスタ"
+  },
+  {
+    "stand_name": "ソフト・マシーン",
+    "operator_name": "マリオ・ズッケェロ"
+  },
+  {
+    "stand_name": "トーキング・ヘッド",
+    "operator_name": "ティッツァーノ"
+  },
+  {
+    "stand_name": "ノトーリアス・B・I・G",
+    "operator_name": "カルネ"
+  },
+  {
+    "stand_name": "パープル・ヘイズ",
+    "operator_name": "パンナコッタ・フーゴ"
+  },
+  {
+    "stand_name": "ビーチ・ボーイ",
+    "operator_name": "ペッシ"
+  },
+  {
+    "stand_name": "ブラック・サバス",
+    "operator_name": "ポルポ"
+  },
+  {
+    "stand_name": "ベイビィ・フェイス",
+    "operator_name": "メローネ"
+  },
+  {
+    "stand_name": "ホワイト・アルバム",
+    "operator_name": "ギアッチョ"
+  },
+  {
+    "stand_name": "マン・イン・ザ・ミラー",
+    "operator_name": "イルーゾォ"
+  },
+  {
+    "stand_name": "ミスター・プレジデント",
+    "operator_name": "ココ・ジャンボ"
+  },
+  {
+    "stand_name": "ムーディー・ブルース",
+    "operator_name": "レオーネ・アバッキオ"
+  },
+  {
+    "stand_name": "メタリカ",
+    "operator_name": "リゾット・ネエロ"
+  },
+  {
+    "stand_name": "リトル・フィート",
+    "operator_name": "ホルマジオ"
+  },
+  {
+    "stand_name": "ローリング・ストーンズ",
+    "operator_name": "スコリッピ"
+  },
+  {
+    "stand_name": "ゴールド・エクスペリエンス・レクイエム",
+    "operator_name": "ジョルノ・ジョバァーナ"
+  },
+  {
+    "stand_name": "シルバーチャリオッツレクイエム",
+    "operator_name": "ジャン＝ピエール・ポルナレフ"
+  },
+  {
+    "stand_name": "アンダー・ワールド",
+    "operator_name": "ドナテロ・ヴェルサス"
+  },
+  {
+    "stand_name": "ウェザー・リポート",
+    "operator_name": "ウェザー・リポート"
+  },
+  {
+    "stand_name": "ヘビー・ウェザー",
+    "operator_name": "ウェザー・リポート"
+  },
+  {
+    "stand_name": "キッス",
+    "operator_name": "エルメェス・コステロ"
+  },
+  {
+    "stand_name": "グーグー・ドールズ",
+    "operator_name": "グェス"
+  },
+  {
+    "stand_name": "グリーン・グリーン・グラス・オブ・ホーム",
+    "operator_name": "緑色の赤ん坊"
+  },
+  {
+    "stand_name": "サバイバー",
+    "operator_name": "山小屋の主人"
+  },
+  {
+    "stand_name": "ジェイル・ハウス・ロック",
+    "operator_name": "ミュッチャー・ミューラー"
+  },
+  {
+    "stand_name": "ジャンピン・ジャック・フラッシュ",
+    "operator_name": "ラング・ラングラー"
+  },
+  {
+    "stand_name": "スカイ・ハイ",
+    "operator_name": "リキエル"
+  },
+  {
+    "stand_name": "ストーン・フリー",
+    "operator_name": "空条徐倫"
+  },
+  {
+    "stand_name": "ダイバー・ダウン",
+    "operator_name": "ナルシソ・アナスイ"
+  },
+  {
+    "stand_name": "ドラゴンズ・ドリーム",
+    "operator_name": "ケンゾー"
+  },
+  {
+    "stand_name": "バーニング・ダウン・ザ・ハウス",
+    "operator_name": "エンポリオ・アルニーニョ"
+  },
+  {
+    "stand_name": "ハイウェイ・トゥ・ヘル",
+    "operator_name": "サンダー・マックイイーン"
+  },
+  {
+    "stand_name": "フー・ファイターズ",
+    "operator_name": "F・F"
+  },
+  {
+    "stand_name": "プラネット・ウェイブス",
+    "operator_name": "ヴィヴァーノ・ウエストウッド"
+  },
+  {
+    "stand_name": "ボヘミアン・ラプソディー",
+    "operator_name": "ウンガロ"
+  },
+  {
+    "stand_name": "ホワイトスネイク",
+    "operator_name": "エンリコ・プッチ"
+  },
+  {
+    "stand_name": "C-MOON",
+    "operator_name": "エンリコ・プッチ"
+  },
+  {
+    "stand_name": "メイド・イン・ヘブン",
+    "operator_name": "エンリコ・プッチ"
+  },
+  {
+    "stand_name": "マリリン・マンソン",
+    "operator_name": "ミラション"
+  },
+  {
+    "stand_name": "マンハッタン・トランスファー",
+    "operator_name": "ジョンガリ・A"
+  },
+  {
+    "stand_name": "ヨーヨーマッ",
+    "operator_name": "DアンG"
+  },
+  {
+    "stand_name": "リンプ・ビズキット",
+    "operator_name": "スポーツ・マックス"
+  },
+  {
+    "stand_name": "イン・ア・サイレント・ウェイ",
+    "operator_name": "サウンドマン"
+  },
+  {
+    "stand_name": "オー! ロンサム・ミー",
+    "operator_name": "マウンテン・ティム"
+  },
+  {
+    "stand_name": "キャッチ・ザ・レインボー",
+    "operator_name": "ブラックモア"
+  },
+  {
+    "stand_name": "クリーム・スターター",
+    "operator_name": "ホット・パンツ"
+  },
+  {
+    "stand_name": "シビル・ウォー",
+    "operator_name": "アクセル・RO"
+  },
+  {
+    "stand_name": "スキャン",
+    "operator_name": "ジャイロ・ツェペリ"
+  },
+  {
+    "stand_name": "ボール・ブレイカー",
+    "operator_name": "ジャイロ・ツェペリ"
+  },
+  {
+    "stand_name": "スケアリー・モンスターズ",
+    "operator_name": "フェルディナンド博士"
+  },
+  {
+    "stand_name": "ディエゴ・ブランドー",
+    "operator_name": "遺体の力によって、フェルディナンド博士から受け継いだ能力。上述の能力に加え、自身も恐竜化できる。"
+  },
+  {
+    "stand_name": "THE WORLD",
+    "operator_name": "別次元のディエゴ・ブランドー"
+  },
+  {
+    "stand_name": "タスクACT1（- アクトワン）",
+    "operator_name": "ジョニィ・ジョースター"
+  },
+  {
+    "stand_name": "ACT2（- アクトツー）",
+    "operator_name": "ジョニィ・ジョースター"
+  },
+  {
+    "stand_name": "ACT3（- アクトスリー）",
+    "operator_name": "ジョニィ・ジョースター"
+  },
+  {
+    "stand_name": "ACT4（- アクトフォー）",
+    "operator_name": "ジョニィ・ジョースター"
+  },
+  {
+    "stand_name": "TATOO YOU!",
+    "operator_name": "11人の男たち"
+  },
+  {
+    "stand_name": "チケット・ゥ・ライド",
+    "operator_name": "ルーシー・スティール"
+  },
+  {
+    "stand_name": "チューブラー・ベルズ",
+    "operator_name": "マイク・O"
+  },
+  {
+    "stand_name": "チョコレート・ディスコ",
+    "operator_name": "ディ・ス・コ"
+  },
+  {
+    "stand_name": "Dirty deeds done dirt cheap",
+    "operator_name": "ファニー・ヴァレンタイン"
+  },
+  {
+    "stand_name": "D4C -ラブトレイン-",
+    "operator_name": "ファニー・ヴァレンタイン"
+  },
+  {
+    "stand_name": "トゥーム・オブ・ザ・ブーム ワン",
+    "operator_name": "ベンジャミン・ブンブーン"
+  },
+  {
+    "stand_name": "トゥーム・オブ・ザ・ブーム ツー",
+    "operator_name": "アンドレ・ブンブーン"
+  },
+  {
+    "stand_name": "トゥーム・オブ・ザ・ブーム スリー",
+    "operator_name": "L.A.ブンブーン"
+  },
+  {
+    "stand_name": "20th センチュリー・ボーイ",
+    "operator_name": "マジェント・マジェント"
+  },
+  {
+    "stand_name": "ヘイ・ヤー",
+    "operator_name": "ポコロコ"
+  },
+  {
+    "stand_name": "ボクのリズムを聴いてくれ",
+    "operator_name": "オエコモバ"
+  },
+  {
+    "stand_name": "マンダム",
+    "operator_name": "リンゴォ・ロードアゲイン"
+  },
+  {
+    "stand_name": "ワイアード",
+    "operator_name": "ポーク・パイ・ハット小僧"
+  },
+  {
+    "stand_name": "アイ・アム・ア・ロック",
+    "operator_name": "八木山夜露"
+  },
+  {
+    "stand_name": "オータム・リーブス",
+    "operator_name": "なし"
+  },
+  {
+    "stand_name": "カリフォルニア・キング・ベッドちゃん",
+    "operator_name": "東方大弥"
+  },
+  {
+    "stand_name": "キング・ナッシング",
+    "operator_name": "四代目 東方憲助"
+  },
+  {
+    "stand_name": "ショット・キーNo.1",
+    "operator_name": "エイ・フェックス兄"
+  },
+  {
+    "stand_name": "ショット・キーNo.2",
+    "operator_name": "エイ・フェックス弟"
+  },
+  {
+    "stand_name": "スピード・キング",
+    "operator_name": "東方常敏"
+  },
+  {
+    "stand_name": "ソフト・アンド・ウェット",
+    "operator_name": "東方定助"
+  },
+  {
+    "stand_name": "ドゥービー・ワゥ!",
+    "operator_name": "大年寺山愛唱"
+  },
+  {
+    "stand_name": "ナット・キング・コール",
+    "operator_name": "東方常秀"
+  },
+  {
+    "stand_name": "ビタミンC",
+    "operator_name": "田最環"
+  },
+  {
+    "stand_name": "ファン・ファン・ファン",
+    "operator_name": "笹目桜二郎"
+  },
+  {
+    "stand_name": "ペイズリー・パーク",
+    "operator_name": "広瀬康穂"
+  },
+  {
+    "stand_name": "ペーパー・ムーン・キング",
+    "operator_name": "東方つるぎ"
+  },
+  {
+    "stand_name": "ボーン・ディス・ウェイ",
+    "operator_name": "虹村京"
+  },
+  {
+    "stand_name": "ラブラブデラックス",
+    "operator_name": "作並カレラ"
+  },
+  {
+    "stand_name": "キラークイーン",
+    "operator_name": "吉良吉影"
+  },
+  {
+    "stand_name": "シアーハートアタック",
+    "operator_name": "吉良吉影"
+  },
+  {
+    "stand_name": "不明[12]",
+    "operator_name": "グッチのバッグ（グッチの天才職人）"
+  },
+  {
+    "stand_name": "リモートロマンス",
+    "operator_name": "ディキシー・フラットライン"
+  },
+  {
+    "stand_name": "サタニック・カプラー",
+    "operator_name": "アブサロム"
+  },
+  {
+    "stand_name": "ダーク・ミラージュ",
+    "operator_name": "ミカル"
+  },
+  {
+    "stand_name": "プタハ神",
+    "operator_name": "書記アニ"
+  },
+  {
+    "stand_name": "ストレンジ・リレイション",
+    "operator_name": "オルガン弾きの老人"
+  },
+  {
+    "stand_name": "The Book",
+    "operator_name": "蓮見琢馬"
+  },
+  {
+    "stand_name": "メモリー・オブ・ジェット",
+    "operator_name": "双葉照彦"
+  },
+  {
+    "stand_name": "ザ・キュアー",
+    "operator_name": "コニーリオ"
+  },
+  {
+    "stand_name": "ジョイ・ディヴィジョン",
+    "operator_name": "ソリョラ・ロペス"
+  },
+  {
+    "stand_name": "パブリック・イメージ・リミテッド",
+    "operator_name": "リガトニ"
+  },
+  {
+    "stand_name": "ヴードゥー・チャイルド",
+    "operator_name": "シーラE"
+  },
+  {
+    "stand_name": "オール・アロング・ウォッチタワー",
+    "operator_name": "カンノーロ・ムーロロ"
+  },
+  {
+    "stand_name": "ドリー・タガー",
+    "operator_name": "ビットリオ・カタルディ"
+  },
+  {
+    "stand_name": "ナイトバード・フライング",
+    "operator_name": "アンジェリカ・アッタナシオ"
+  },
+  {
+    "stand_name": "パープル・ヘイズ・ディストーション",
+    "operator_name": "パンナコッタ・フーゴ"
+  },
+  {
+    "stand_name": "マニック・デプレッション",
+    "operator_name": "マッシモ・ヴォルペ"
+  },
+  {
+    "stand_name": "レイニーデイ・ドリームアウェイ",
+    "operator_name": "ヴラディミール・コカキ"
+  },
+  {
+    "stand_name": "NYPDブルー",
+    "operator_name": "虹村不可思議"
+  },
+  {
+    "stand_name": "Uボート",
+    "operator_name": "ナランチャ・ギルガ"
+  },
+  {
+    "stand_name": "雨に唄えば",
+    "operator_name": "元アメリカ大統領ファニー・ヴァレンタイン"
+  },
+  {
+    "stand_name": "アタック・ナンバーハーフ",
+    "operator_name": "グイード・ミスタ"
+  },
+  {
+    "stand_name": "アルティメットD4C",
+    "operator_name": "究極生命体カーズ"
+  },
+  {
+    "stand_name": "ホワイトスネイク・アルティメット",
+    "operator_name": "究極生命体カーズ"
+  },
+  {
+    "stand_name": "C-MOON・アルティメット・レクイエム",
+    "operator_name": "究極生命体カーズ"
+  },
+  {
+    "stand_name": "メイド・イン・ヘブン・アルティメット・レクイエム",
+    "operator_name": "究極生命体カーズ"
+  },
+  {
+    "stand_name": "イーヴルデッド",
+    "operator_name": "セッコ・ロッターリオ"
+  },
+  {
+    "stand_name": "ヴィデオドローム",
+    "operator_name": "レオーネ・アバッキオ"
+  },
+  {
+    "stand_name": "キューブハウス",
+    "operator_name": "ペネロペ・デ・ラ・ロサ"
+  },
+  {
+    "stand_name": "不明",
+    "operator_name": "ペネロペ・デ・ラ・ロサ"
+  },
+  {
+    "stand_name": "グッドナイト・ムーン",
+    "operator_name": "ブローノ・ブチャラティ"
+  },
+  {
+    "stand_name": "グランブルー",
+    "operator_name": "虹村無量大数"
+  },
+  {
+    "stand_name": "ザ・パッション",
+    "operator_name": "ディオ・ブランドー"
+  },
+  {
+    "stand_name": "ザ・ワールド・アルティメット",
+    "operator_name": "究極生命体ディオ"
+  },
+  {
+    "stand_name": "ストレイドッグ",
+    "operator_name": "矢安宮重孝"
+  },
+  {
+    "stand_name": "デューン",
+    "operator_name": "ゴヤスリー・サウンドマン"
+  },
+  {
+    "stand_name": "フェイスオフ",
+    "operator_name": "辻綾"
+  },
+  {
+    "stand_name": "ブルーサンダー",
+    "operator_name": "広瀬康司"
+  },
+  {
+    "stand_name": "ライトスタッフ",
+    "operator_name": "ポコロコ・トリプルセブン"
+  },
+  {
+    "stand_name": "リアウィンドウ",
+    "operator_name": "ファニアー・ヴァレンタイン"
+  },
+  {
+    "stand_name": "不明",
+    "operator_name": "アントニオ・トーレス"
+  },
+  {
+    "stand_name": "不明",
+    "operator_name": "ヴィネガー・ドッピオ"
+  },
+  {
+    "stand_name": "不明",
+    "operator_name": "スタンドつかい"
+  },
+  {
+    "stand_name": "ザ・ワールド・オーバーヘブン",
+    "operator_name": "天国に到達したDIO"
+  },
+  {
+    "stand_name": "ラブ・ノート",
+    "operator_name": "空条ジョー"
+  }
+]
