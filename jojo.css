@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 200%;
+  cursor: pointer;
+}
