@@ -25,7 +25,7 @@ $(function() {
   fit();
   $(window).resize(fit);
 
-  $.getJSON('/stands.json', function(data) {
+  $.getJSON('./stands.json', function(data) {
     start(data);
   });
 });
