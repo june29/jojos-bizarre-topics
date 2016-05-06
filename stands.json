@@ -117,7 +117,7 @@
   },
   {
     "stand_name": "アヌビス神",
-    "operator_name": "キャラバン・サライ"
+    "operator_name": "チャカ、カーン"
   },
   {
     "stand_name": "アトゥム神",
@@ -496,8 +496,8 @@
     "operator_name": "フェルディナンド博士"
   },
   {
-    "stand_name": "ディエゴ・ブランドー",
-    "operator_name": "遺体の力によって、フェルディナンド博士から受け継いだ能力。上述の能力に加え、自身も恐竜化できる。"
+    "stand_name": "スケアリー・モンスターズ",
+    "operator_name": "ディエゴ・ブランドー"
   },
   {
     "stand_name": "THE WORLD",
@@ -648,7 +648,7 @@
     "operator_name": "吉良吉影"
   },
   {
-    "stand_name": "不明[12]",
+    "stand_name": "不明",
     "operator_name": "グッチのバッグ（グッチの天才職人）"
   },
   {
